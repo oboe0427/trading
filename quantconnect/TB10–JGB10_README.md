@@ -1,4 +1,4 @@
-TB10–JGB10 & USDJPY IV Regression (QuantConnect Research)
+#TB10–JGB10 & USDJPY IV Regression (QuantConnect Research)
 이 레포지토리는 미국 10년물 국채(TB10) – 일본 10년물 국채(JGB10) 금리차와
 USD/JPY 환율, VIX, Fed Funds Rate 사이의 관계를 QuantConnect Research 환경에서 탐색하는 리서치 노트북 **TB10–JGB10.ipynb**를 정리한 것입니다.
 
